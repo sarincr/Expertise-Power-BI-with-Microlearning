@@ -1,0 +1,2 @@
+# Expertise-Power-BI-with-Microlearning
+Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Microlearning is a way of teaching and delivering content to learners in bite-sized (3-5 minutes) bursts at the point of need, with a focused and specific learning outcome.  Let us Expertise Power BI with Microlearning
