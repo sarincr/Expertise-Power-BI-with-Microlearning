@@ -1,0 +1,1 @@
+Based on a borrower's ability to pay back their obligations, lenders might opt to issue credit or not by analysing credit risk. The following list contains details on a bank's credit risk. After analyzing the data, provide some insights on the credit volatility, paying close attention to the risk profiling of various client categories.

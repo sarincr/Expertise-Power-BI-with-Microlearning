@@ -1,0 +1,5 @@
+Below is a list of a supply chain organization's sales information.
+
+They now want to audit the business's operations.
+
+Please analyse the data using Tableau and Python to gain some insights on operational performance depending on a variety of variables, like shipment time, profitability, etc. 

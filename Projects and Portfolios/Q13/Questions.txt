@@ -1,0 +1,3 @@
+The purpose of churn analysis is to reduce a company's customer attrition rate.
+Analyzing your product and how customers use it might help you lower churn, also known as customer attrition rate.
+Do a churn analysis using the data below to learn more about expected losses, risk-adjusted return, and other information. 

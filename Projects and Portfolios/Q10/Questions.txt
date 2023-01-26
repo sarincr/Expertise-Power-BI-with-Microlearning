@@ -1,0 +1,3 @@
+The following is the sales data from a corporate shop.
+The company wishes to design a new shoe model for the company.
+Using Python and Tableau, generate insights from the data that might help the company decide on a new shoe model, its features, or its market niches. 

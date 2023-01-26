@@ -1,0 +1,5 @@
+A production firm wants to make a movie but is uncertain of the genre, language, budget, subject, month of release, or other aspects of the making of the movie.
+
+Below are the statistics for Netflix users at that period.
+
+Identify thefeatures of popular movies by using Python and Tableau to gain information that might aid the business requirements. 

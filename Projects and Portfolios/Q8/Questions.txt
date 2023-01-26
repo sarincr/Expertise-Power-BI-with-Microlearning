@@ -1,0 +1,6 @@
+A supply chain organization's sales data is listed below.
+
+They now want to conduct an audit of the company.
+
+Please analyze the data using Tableau and Python to learn how operational performance varies based on different factors like Product Base Margin, SubRegion, etc.
+Offer places with the essential validating insights where the services may be increased or decreased. 

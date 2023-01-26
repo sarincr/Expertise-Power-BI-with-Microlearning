@@ -1,0 +1,3 @@
+The company decided to provide some of its staff incentives. This section contains details on employee performance over the previous few months.
+Use Tableau or Python to identify the departments that are performing the best, as well as the ideal candidates for promotions and general advice on how individuals and departments may use data.
+Make that the decision to fire them was made correctly and without mistake.

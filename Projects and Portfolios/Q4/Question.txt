@@ -1,0 +1,4 @@
+The annual sales figures for a super market are provided below.
+The business is preparing to improve its results despite a fall in revenue.
+This is intended to be accomplished through a variety of strategies, such as segmentation, fewer unnecessary sales, and client retention.
+Create a strong plan for increasing revenue and improving client retention using Tableau and Python.

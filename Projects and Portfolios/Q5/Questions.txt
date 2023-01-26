@@ -1,0 +1,3 @@
+The sales data for a sales organisation is listed below. 
+They now want to establish a franchise of stores. 
+Please conduct a study of the available products, their locations, prices, and other profitable qualities using Tableau and Python. 
